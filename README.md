@@ -8,6 +8,3 @@
 <p align="center">
 <a href="http://linkedin.com/in/pafleite" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pafleite" height="20" width="20" /></a>
 </p>
-
-
-![Pedro Leite's github stats](https://github-readme-stats.vercel.app/api?username=pedroafleite&show_icons=true&theme=radical)
