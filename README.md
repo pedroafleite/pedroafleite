@@ -8,3 +8,8 @@
 <p align="center">
 <a href="http://linkedin.com/in/pafleite" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pafleite" height="20" width="20" /></a>
 </p>
+
+
+<a href="https://github.com/pedroafleite/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroafleite&repo=github-readme-stats" />
+</a>
