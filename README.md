@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Pedro 😄</h1>
-<h3 align="center">A data devourer who likes to meet all kinds of people and explore all kinds of data</h3>
+<h3 align="center">A data devourer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroafleite" alt="pedroafleite" /> </p>
 
 - 📫 How to reach me: **pedroaug.fl@gmail.com**
