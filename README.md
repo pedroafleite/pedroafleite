@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Pedro 😄</h1>
+<h1 align="center">Hi there! I'm Pedro :wave:</h1>
 <h3 align="center">Data Engineer</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroafleite" alt="pedroafleite" /> </p> -->
 
